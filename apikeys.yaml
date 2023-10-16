@@ -1,0 +1,6 @@
+twitchAPI:
+  appKey:
+  secretKey:
+filterAPI:
+  writeKey: SECRETWRITEKEY
+  readKey: SECRETREADKEY
